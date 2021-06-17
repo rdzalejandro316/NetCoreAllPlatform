@@ -1,0 +1,27 @@
+﻿@page "/"
+@using CoreApp;
+
+<h1>Hello, world! BLAZOR</h1>
+
+
+
+<h2>cod_ter: @tercero.cod_ter</h2>
+<h2>nom_ter: @tercero.nom_ter</h2>
+<h2>tel1: @tercero.tel1</h2>
+<h2>cel1: @tercero.email</h2>
+<h2>email: @tercero.email</h2>
+
+@code
+{
+    CoreApp.Main main = new CoreApp.Main();
+    CoreApp.Models.Tercero tercero = new CoreApp.Models.Tercero();
+
+    public Index()
+    {
+        tercero = main.LoadTercero();
+    }
+
+
+
+
+}

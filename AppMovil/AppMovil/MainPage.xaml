@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMovil.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Label Text="cod_ter"/>
+            <Entry Text="{Binding cod_ter}"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="nom_ter"/>
+            <Entry Text="{Binding nom_ter}"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="tel1"/>
+            <Entry Text="{Binding tel1}"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="cel1"/>
+            <Entry Text="{Binding cel1}"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="email"/>
+            <Entry Text="{Binding email}"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

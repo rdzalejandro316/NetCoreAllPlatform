@@ -1,0 +1,9 @@
+C:\Users\aleja\Desktop\F\CoreApp\bin\Debug\netstandard2.1\CoreApp.deps.json
+C:\Users\aleja\Desktop\F\CoreApp\bin\Debug\netstandard2.1\CoreApp.dll
+C:\Users\aleja\Desktop\F\CoreApp\bin\Debug\netstandard2.1\CoreApp.pdb
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.AssemblyInfo.cs
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.dll
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.pdb
+C:\Users\aleja\Desktop\F\CoreApp\obj\Debug\netstandard2.1\CoreApp.csprojAssemblyReference.cache

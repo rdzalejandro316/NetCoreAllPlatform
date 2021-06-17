@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "88im0yxe+MyQdOkn58swV324NVfgvTKa0fHARZiWZmFLfOAHTqlPpSMouIQeLpqEANmztnh5KP0KXpuR2jCrEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja\\Desktop\\F\\AppMovil\\AppMovil.iOS\\AppMovil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\aleja\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

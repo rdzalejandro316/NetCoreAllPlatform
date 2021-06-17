@@ -1,0 +1,35 @@
+﻿<Window x:Class="AppDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppDesktop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <StackPanel>
+            <StackPanel>
+                <Label Content="cod_ter"/>
+                <TextBox Text="{Binding cod_ter}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="nom_ter"/>
+                <TextBox Text="{Binding nom_ter}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="tel1"/>
+                <TextBox Text="{Binding tel1}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="cel1"/>
+                <TextBox Text="{Binding cel1}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="email"/>
+                <TextBox Text="{Binding email}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+
+</Window>

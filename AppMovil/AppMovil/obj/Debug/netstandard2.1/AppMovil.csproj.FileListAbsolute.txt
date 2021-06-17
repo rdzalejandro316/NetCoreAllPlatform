@@ -1,0 +1,17 @@
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\AppMovil.deps.json
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\AppMovil.dll
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\ref\AppMovil.dll
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\AppMovil.pdb
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.AssemblyInfo.cs
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.dll
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\ref\AppMovil.dll
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.pdb
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\CoreApp.dll
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\bin\Debug\netstandard2.1\CoreApp.pdb
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\F\AppMovil\AppMovil\obj\Debug\netstandard2.1\AppMovil.csproj.CopyComplete
